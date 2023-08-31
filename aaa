@@ -1,0 +1,25 @@
+Git course structure:
+1. Introduction
+2. Meaning of git
+3. Install git
+4. What is repository?
+5. Github account creation
+6. Configure git
+7. Conigure notepad++
+8. Git work flow
+9. Git work flow example
+10. Cloning a repository
+11. Initializing git in existing repository
+12. Status life cycle
+13. Ignoring files(.gitignore)
+14. Git Diff
+15. Git Commit
+16. Git Log(History)
+17. Git Branching
+18. Git pull/push/fetch(Remote branching)
+19. P4Merge
+20. Git Aliases
+21. Git Rebasing
+22. Stashing
+23. Cleaning
+24. Tagging
